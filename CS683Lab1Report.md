@@ -1,7 +1,10 @@
 # CS683 Lab1 Report 
-### Your name
+### Cesar Calderon
 
 ## Set up Android Studio and Git/Github
+
+Android Studio is very user friendly, I clone the repo from the Github link provided by the professor directly from the initial menu. It is great since it creates the folder structure just as it is on github.
+
 
 Briefly describe your experience with Android studio/AVD and Git/Github for this lab, 
 particularly if you encountered any difficulties and issues. 
